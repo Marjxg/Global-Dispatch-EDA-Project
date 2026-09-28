@@ -94,3 +94,18 @@ npm run dev
 - Invalid requests are cancelled with explanatory notes.
 - Only accepted and unassigned loads are available to carriers.
 - Each load can be assigned to only one carrier.
+
+## Dashboard
+![dashboard](img/frontend-dashbaord.png)
+
+## New request form
+![new-request](img/frontend-form.png)
+
+## List of requests
+![my-requests](img/frontend-list.png)
+
+## Available Loads
+![available-loads](img/frontend-loads.png)
+
+## Queues
+![queues](img/solace-queues.png)
